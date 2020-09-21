@@ -1,0 +1,13 @@
+Cachedump 1.2
+
+1.2:
+	- Stupid HeapCreate
+	- MAX_CACHE_SIZE fully supported
+	- BUFFER_SIZE increased to 4096 (Cain should do the same)
+
+1.1:
+	- bug fix
+	- display domain name & domain dns
+
+1.0:
+	- first public release
